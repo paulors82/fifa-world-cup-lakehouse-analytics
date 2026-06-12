@@ -352,7 +352,7 @@ Análise individual dos atletas.
 📹 Vídeo demonstrativo:
 
 ```text
-Adicionar link do vídeo aqui
+https://youtu.be/oFjWgkRZCr4
 ```
 
 ---
@@ -416,14 +416,14 @@ fifa-world-cup-lakehouse-analytics
 
 # 👨‍💻 Autor
 
-### Paulo Roberto
+### Paulo Roberto da Silva
 
 Pós-Graduando em Engenharia de Dados e Inteligência Artificial.
 
 ### Contato
 
-- LinkedIn: https://linkedin.com/in/seu-link
-- GitHub: https://github.com/seu-usuario
+- LinkedIn: https://linkedin.com/in/paulors82/
+- GitHub: https://github.com/paulors82
 
 ---
 

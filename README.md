@@ -331,7 +331,7 @@ Análise individual dos atletas.
 
 ## Visão Geral do Torneio
 
-![Dashboard Geral](images/dashboard_overview.png)
+![Dashboard Torneio](images/dashboard_tourneament.png)
 
 ---
 

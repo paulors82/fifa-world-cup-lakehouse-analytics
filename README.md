@@ -40,7 +40,7 @@ Mais do que a criação de dashboards, o foco principal foi desenvolver uma solu
 # 🏗 Arquitetura da Solução
 
 ```text
-API FIFA World Cup
+StatsBomb Open Data API FIFA World Cup
         │
         ▼
 Databricks Lakehouse
@@ -129,7 +129,7 @@ Camada voltada ao consumo analítico.
 
 ## Fonte de Dados
 
-- API de Dados das Copas do Mundo FIFA
+- StatsBomb Open Data API de Dados das Copas do Mundo FIFA
 
 ---
 
